@@ -27,8 +27,10 @@
 
 <img width="213" height="563" alt="dz_4" src="https://github.com/user-attachments/assets/82149c92-00ce-4140-a9e7-f4c98b9e2fd3" />
 
-## 2. Реализация программы
 </div>
+
+## 2. Реализация программы
+
 ```c
 #include <stdio.h>
 #include <locale.h>
