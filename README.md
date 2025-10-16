@@ -28,7 +28,7 @@
 <img width="213" height="563" alt="dz_4" src="https://github.com/user-attachments/assets/82149c92-00ce-4140-a9e7-f4c98b9e2fd3" />
 
 ## 2. Реализация программы
-
+</div>
 ```c
 #include <stdio.h>
 #include <locale.h>
@@ -46,6 +46,8 @@ int main() {
     return 0;
 }
 ```
+<div align="center">
+
 ## 3. Результаты работы программы
 
 <img width="380" height="67" alt="Снимок экрана 2025-10-16 181018" src="https://github.com/user-attachments/assets/e64dee88-c64a-4f5d-b785-f1971800f657" />
